@@ -1,0 +1,1 @@
+For this task, I built a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. I used the Bank Churn Modeling dataset, which can be found here.
